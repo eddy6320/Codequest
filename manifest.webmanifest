@@ -1,0 +1,18 @@
+{
+  "name": "CodeQuest · Aprende a programar",
+  "short_name": "CodeQuest",
+  "description": "Aprende a programar jugando: lecciones cortas, quizzes, rachas y repaso espaciado.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#131f24",
+  "theme_color": "#58cc02",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
